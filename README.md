@@ -16,7 +16,7 @@ A conversational McDonald's drive-thru ordering system that:
 
 1. Install the required dependencies:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 2. Set your OpenAI API key:
